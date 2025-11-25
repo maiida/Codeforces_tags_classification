@@ -20,8 +20,8 @@ Using pyenv ensures you have the correct Python version and isolated environment
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd test_technique
+git clone https://github.com/maiida/Codeforces_tags_classification.git
+cd Codeforces_tags_classification
 
 # Install the required Python version via pyenv
 pyenv install 3.10 --skip-existing
