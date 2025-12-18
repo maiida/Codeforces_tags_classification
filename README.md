@@ -1,4 +1,4 @@
-# Technical Test: Tag Prediction
+# Codeforces Tag Prediction
 
 A multi-label classification system for predicting algorithmic tags on competitive programming problems from Codeforces.
 
